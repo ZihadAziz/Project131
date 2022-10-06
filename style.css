@@ -1,0 +1,34 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.navigation {
+    font-size: 35px;
+    background-color: white;
+    border-radius: 30%;
+    padding-left: 20px;
+    padding-right: 20px;
+    top: 100px;
+}
+
+#heading {
+    margin: 100px;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+#BackButton {
+    float: right;
+    font-size: 18px;
+}
+
+#status {
+    font-size: 16;
+    margin-top: 32px;
+}
